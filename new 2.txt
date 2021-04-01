@@ -1,0 +1,4 @@
+cd ~/Desktop
+mkdir myproject
+cd myproject
+touch newfile.txt
